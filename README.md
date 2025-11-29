@@ -1,11 +1,11 @@
-# 🧠 Computer Vision: Real-Time Object Detection
+#  Computer Vision: Real-Time Object Detection
 
 This project demonstrates **real-time object detection** using **YOLOv8** and **OpenCV** with a **laptop webcam**.  
 Built using **Python + Jupyter Notebook**, this project is ideal for beginners exploring computer vision and deep learning.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Real-time object detection using YOLOv8
 - Webcam feed with bounding boxes & labels
@@ -14,7 +14,7 @@ Built using **Python + Jupyter Notebook**, this project is ideal for beginners e
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 | Technology | Purpose |
 |-----------|---------|
@@ -26,7 +26,7 @@ Built using **Python + Jupyter Notebook**, this project is ideal for beginners e
 
 ---
 
-## 📦 Project Files
+##  Project Files
 
 | File | Description |
 |------|-------------|
@@ -37,12 +37,3 @@ Built using **Python + Jupyter Notebook**, this project is ideal for beginners e
 
 ---
 
-## ▶️ How to Run
-
-### 1️⃣ Create a virtual environment (recommended)
-
-```bash
-python -m venv venv
-venv\Scripts\activate  # Windows
-# OR
-source venv/bin/activate  # Linux/Mac
